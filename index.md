@@ -1,0 +1,3 @@
+- [ ] get up
+- [ ] brush
+- [ ] walk
