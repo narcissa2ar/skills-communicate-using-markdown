@@ -1,4 +1,3 @@
-``` python
- if a<b :
-print("hello")
-```
+- [ ] get up
+- [ ] brush
+- [ ] walk
